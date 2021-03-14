@@ -1,4 +1,4 @@
-# AngularDinamic
+# angular-dynamic
 
 ### Practical work with dynamic components.
 
